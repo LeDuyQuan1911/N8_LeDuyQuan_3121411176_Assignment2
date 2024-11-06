@@ -17,8 +17,12 @@ This project contains automated test cases using **Selenium WebDriver** and **Py
 ## Requirements
 
 ### 1. Software
-- **Python**: Version 3.7 or higher
-- **Browser**: Microsoft Edge (or can be replaced with Chrome, Firefox, etc.)
+- **Python**: Version 3.12.6
+- **Platform**: Windows-11-10.0.22631-SP0
+- **Packages**: pytest: 8.3.3 and pluggy: 1.5.0
+- **Plugins**: Plugins
+- **JAVA_HOME**: C:\Program Files\Java\jdk-22
+- **Browser**:  Chrome Browser
 - **Edge WebDriver**: Must be compatible with your Edge browser version (instructions provided below).
 
 ### 2. Python Libraries
@@ -28,9 +32,6 @@ This project contains automated test cases using **Selenium WebDriver** and **Py
 ---
 
 ## Setup Instructions
-
-### Prerequisite: Download XAMPP -> Start Apache and MySQL
-### Prerequisite: Download and set up OpenCart localhost
 
 ### 1. Install Python
 1. [Download Python](https://www.python.org/downloads/) and install it, ensuring the option "Add Python to PATH" is selected during installation (Path environment).
