@@ -1,7 +1,7 @@
 Full Name: Lê Duy Quân
 ID Students: 3121411176
 Class: DCT121C5
-
+Github: https://github.com/LeDuyQuan1911/N8_LeDuyQuan_3121411176_Assignment2
 # Automated Testing with Selenium and Pytest
 
 This project contains automated test cases using **Selenium WebDriver** and **Pytest** to verify the sorting functionality on the [Open Cart website](http://localhost/webopencart/index.php?route=common/home&language=en-gb).
